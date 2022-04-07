@@ -1,0 +1,38 @@
+[
+    {
+        "_id": {
+            "$oid": "624f1ab5a64ba38c63e9d967"
+        },
+        "nome_sensor": "Sensor1",
+        "valor_sensor": 40,
+        "unidade_medida": " \u00ba C ",
+        "sensor_alarmado": true,
+        "lastModified": {
+            "$date": "2022-04-07T17:09:09.396Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "624f1ab5a64ba38c63e9d968"
+        },
+        "nome_sensor": "Sensor2",
+        "valor_sensor": 40,
+        "unidade_medida": " \u00ba C ",
+        "sensor_alarmado": true,
+        "lastModified": {
+            "$date": "2022-04-07T17:09:18.601Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "624f1ab5a64ba38c63e9d969"
+        },
+        "nome_sensor": "Sensor3",
+        "valor_sensor": 39,
+        "unidade_medida": " \u00ba C ",
+        "sensor_alarmado": true,
+        "lastModified": {
+            "$date": "2022-04-07T17:09:21.611Z"
+        }
+    }
+]
